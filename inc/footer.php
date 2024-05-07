@@ -24,10 +24,13 @@
             <div class="col-sm-4">
                 <h4 class="text-footer">Porque elegirnos</h4>
                 <p> 
-                    Lorem ipsum dolor sit amet,adipisicing elit.</br>
-                    Lorem ipsum dolor sit amet,adipisicing elit.</br>
-                    Lorem ipsum dolor sit amet,adipisicing elit.</br>
-                    Lorem ipsum dolor sit amet,adipisicing elit.</br>
+                    Nuestro propósito es ofrecerte un espacio donde</br>
+                    puedas encontrar de manera fácil y sencilla</br>
+                    aquellos lugares ideales para la reparacion o</br>
+                    mantenimiento de tus equipos electrónicos, todo</br>
+                    en un solo lugar con la centeza de confianza.Apoyados</br>
+                    con tu opinión y la de toda la gente que guste colaborar.</br>
+
                 </p>
             </div>
             <div class="col-sm-4">

@@ -5,7 +5,7 @@ include './library/consulSQL.php';
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Productos</title>
+    <title>Locales</title>
     <?php include './inc/link.php'; ?>
 </head>
 <body id="container-page-product">
@@ -14,7 +14,7 @@ include './library/consulSQL.php';
        <br>
         <div class="container">
             <div class="page-header">
-              <h1>PRODUCTOS <small class="tittles-pages-logo">STORE</small></h1>
+              <h1>LOCALES <small class="tittles-pages-logo">CONNECT M</small></h1>
             </div>
             <?php
               $checkAllCat=ejecutarSQL::consultar("SELECT * FROM categoria");
@@ -157,7 +157,7 @@ include './library/consulSQL.php';
                 <?php
                   endif;
                   }else{
-                    echo '<h2 class="text-center">Lo sentimos, no hay productos registrados en la categoría <strong>"'.$datCat['Nombre'].'"</strong></h2>';
+                    echo '<h2 class="text-center">Lo sentimos, no hay locales registrados en la categoría <strong>"'.$datCat['Nombre'].'"</strong></h2>';
                   }
                 ?>
               </div>
@@ -166,7 +166,7 @@ include './library/consulSQL.php';
                   echo '<h2 class="text-center">Por favor seleccione una categoría para empezar</h2>';
                 }
               else:
-                echo '<h2 class="text-center">Lo sentimos, no hay productos ni categorías registradas en la tienda</h2>';
+                echo '<h2 class="text-center">Lo sentimos, no hay locales ni categorías registradas en la plataforma</h2>';
               endif;
             ?>
         </div>
