@@ -5,19 +5,19 @@
         <div class="row">
             <div class="col-sm-4">
                 <h4 class="text-footer">Contactanos</h4>
-                <a href="#" target="_blank">
+                <a href="https://www.facebook.com/" target="_blank">
                     <i class="fa fa-facebook" aria-hidden="true">&nbsp; Facebook </i> 
                 </a><br>
-                <a href="#" target="_blank">
+                <a href="https://twitter.com/" target="_blank">
                     <i class="fa fa-twitter" aria-hidden="true">&nbsp; Twitter </i>
                 </a><br>
-                <a href="#" target="_blank">
+                <a href="https://www.youtube.com/" target="_blank">
                     <i class="fa fa-youtube-play" aria-hidden="true">&nbsp; YouTube </i>
                 </a><br>
-                <a href="#" target="_blank">
+                <a href="https://www.instagram.com/" target="_blank">
                     <i class="fa fa-instagram" aria-hidden="true">&nbsp; Instagram </i>
                 </a><br>
-                <a href="#" target="_blank">
+                <a href="https://www.google.com.mx/maps/@31.8244674,-116.5963598,15z?entry=ttu" target="_blank">
                     <i class="fa fa-map-marker" aria-hidden="true">&nbsp; Encuentranos </i>
                 </a>
             </div>
@@ -32,14 +32,14 @@
             </div>
             <div class="col-sm-4">
                 <h4 class="text-footer" >Direccion</h4>
-                <p style="color: #FFF">El Salvador</p>
-                <p style="color: #FFF">adipisicing elit</p>
-                <p style="font-size:20px" aria-hidden="true">  000 – 000000 / 000 – 000000</p>
-                <p class="fa fa-mobile" style="font-size:20px"  aria-hidden="true">  00000000 / 0000000</p> <a href="#" target="_blank" style="color: #5bc0de">envianos_un_mensaje</a></br>
-                E-mail: <a href="#" target="_blank" style="color: #5bc0de"> &nbsp; ejemplod@dominio.com</a>
+                <p style="color: #FFF">Ensenada</p>
+                <p style="color: #FFF">Blvd. Gral. Juan Zertuche, Carlos Pacheco 7, 22890 Ensenada, B.C.</p>
+                <p style="font-size:20px" aria-hidden="true">  646 – 123456 / 646 – 987654</p>
+                <p class="fa fa-mobile" style="font-size:20px"  aria-hidden="true">  646123456 / 646987654</p> <a href="#" target="_blank" style="color: #5bc0de">envianos_un_mensaje</a></br>
+                E-mail: <a href="#" target="_blank" style="color: #5bc0de"> &nbsp; veritasenterprice.connectm@gmail.com</a>
             </div>
         </div>
     </div>
     <br><br><br>
-    <h5 class="text-center tittles-pages-logo text-footer">STORE &copy; 2021</h5>
+    <h5 class="text-center tittles-pages-logo text-footer">CONNECT M &copy; 2024</h5>
 </footer>

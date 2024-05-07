@@ -42,11 +42,11 @@
         <!-- Controls -->
         <a class="left carousel-control" href="#slider-store" role="button" data-slide="prev">
             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
+            <span class="sr-only">Anterior</span>
         </a>
         <a class="right carousel-control" href="#slider-store" role="button" data-slide="next">
             <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
+            <span class="sr-only">Siguiente</span>
         </a>
     </section>
     
@@ -54,7 +54,7 @@
     <section id="new-prod-index">    
          <div class="container">
             <div class="page-header">
-                <h1>Últimos <small>productos agregados</small></h1>
+                <h1>Últimos <small>locales agregados</small></h1>
             </div>
             <div class="row">
               	<?php
@@ -103,7 +103,7 @@
                    <article style="margin-top:5%;">
                         <p><i class="fa fa-users fa-4x"></i></p>
                         <h3>Registrate</h3>
-                        <p>Registrate como cliente de <span class="tittles-pages-logo">STORE</span> en un sencillo formulario para poder completar tus pedidos</p>
+                        <p>Registrate como cliente de <span class="tittles-pages-logo">CONNECT M</span> en un sencillo formulario para poder ingresar tu local</p>
                         <p><a href="registration.php" class="btn btn-info btn-raised btn-block">Registrarse</a></p>   
                    </article>
                 </div>
