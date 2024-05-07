@@ -125,7 +125,7 @@
     
     <div id="mobile-menu-list" class="hidden-sm hidden-md hidden-lg">
         <br>
-        <h3 class="text-center tittles-pages-logo">STORE</h3>
+        <h3 class="text-center tittles-pages-logo">CONNECT M</h3>
         <button class="btn btn-default button-mobile-menu" id="button-close-mobile-menu">
         <i class="fa fa-times"></i>
         </button>
@@ -133,7 +133,7 @@
         <ul class="list-unstyled text-center">
             <li><a href="index.php">Inicio</a></li>
             <li><a href="product.php">Locales</a></li>
-            <li><a href="carrito.php">Carrito</a></li>
+            <!-- <li><a href="carrito.php">Carrito</a></li>-->
             <?php 
                 if(!$_SESSION['nombreAdmin']==""){
                     echo '<li><a href="configAdmin.php">Administración</a></li>';
