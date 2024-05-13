@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="./css/sweetalert.css">
 <link rel="stylesheet" href="./css/media.css">
 <link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="./js/jquery.min.js"></script>
 <script src="./js/bootstrap.min.js"></script>
 <script src="./js/material.min.js"></script>

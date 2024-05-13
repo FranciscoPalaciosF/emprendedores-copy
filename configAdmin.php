@@ -14,7 +14,7 @@
     <section id="prove-product-cat-config">
         <div class="container">
           <div class="page-header">
-            <h1>Panel de administración <small class="tittles-pages-logo">STORE</small></h1>
+            <h1>Panel de administración <small class="tittles-pages-logo">CONNECT M</small></h1>
           </div>
           <!--====  Nav Tabs  ====-->
           <ul class="nav nav-tabs nav-justified" style="margin-bottom: 15px;">
@@ -25,7 +25,7 @@
             </li>
             <li>
               <a href="configAdmin.php?view=provider">
-                <i class="fa fa-truck" aria-hidden="true"></i> &nbsp; Proveedores
+                <i class="fa fa-truck" aria-hidden="true"></i> &nbsp; Locales
               </a>
             </li>
             <li>
