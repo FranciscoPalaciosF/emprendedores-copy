@@ -12,6 +12,7 @@
                 <div class="contenedor-tr">
                   <a href="index.php" class="table-cell-td">Inicio</a>
                   <a href="product.php" class="table-cell-td">Locales</a>
+                  <a href="resenas.php" class="table-cell-td">Reseñas</a>
                   <?php
                       if(!$_SESSION['nombreAdmin']==""){
                           echo ' 
@@ -133,6 +134,7 @@
         <ul class="list-unstyled text-center">
             <li><a href="index.php">Inicio</a></li>
             <li><a href="product.php">Locales</a></li>
+            <li><a href="resenas.php">Reseñas</a></li>
             <!-- <li><a href="carrito.php">Carrito</a></li>-->
             <?php 
                 if(!$_SESSION['nombreAdmin']==""){
